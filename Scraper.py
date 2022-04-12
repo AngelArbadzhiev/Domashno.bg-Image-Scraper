@@ -4,8 +4,8 @@ import os
 
 login_url = 'https://domashno.bg/login'
 data = {
-    'username': 'angelarabadzhiev83@gmail.com',
-    'password': 'a1n2g3e4l5'
+    'username': 'email',
+    'password': 'password'
 }
 
 with requests.Session() as s:
